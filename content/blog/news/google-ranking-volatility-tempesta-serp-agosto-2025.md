@@ -210,12 +210,27 @@ Link building aggressivo:
 
 ### Risultati Straordinari (21 giorni)
 
-| Metrica | Pre-Recovery | Post-Recovery | Variazione |
-|---------|--------------|---------------|------------|
-| **Traffico organico** | -67% | -23% | **+44pp** |
-| **Keyword top 10** | 23 | 67 | **+191%** |
-| **Featured snippets** | 2 | 8 | **+300%** |
-| **Conversion rate** | 1.8% | 2.4% | **+33%** |
+**🚀 Risultati Recovery E-commerce Milano (21 giorni)**:
+
+**📈 Traffico organico**:
+- Pre-Recovery: -67%
+- Post-Recovery: -23%
+- **Variazione: +44pp**
+
+**🎯 Keyword top 10**:
+- Pre-Recovery: 23
+- Post-Recovery: 67
+- **Variazione: +191%**
+
+**⭐ Featured snippets**:
+- Pre-Recovery: 2
+- Post-Recovery: 8
+- **Variazione: +300%**
+
+**💰 Conversion rate**:
+- Pre-Recovery: 1.8%
+- Post-Recovery: 2.4%
+- **Variazione: +33%**
 
 **Key insight**: La velocità di recovery dipende dall'**aggressività dell'intervento**.
 

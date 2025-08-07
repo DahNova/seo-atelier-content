@@ -89,13 +89,32 @@ Budget PPC mensile cliente tipo: €8,000
 
 ### Risultati dopo 6 Mesi
 
-| Metrica | PPC (Prima) | SEO Predittiva (Dopo) | Variazione |
-|---------|-------------|----------------------|-------------|
-| **Costo mensile** | €8,000 | €2,500 | **-69%** |
-| **Lead qualificati** | 67 | 94 | **+40%** |
-| **Costo per lead** | €119 | €27 | **-77%** |
-| **Traffico mensile** | 3,200 | 12,800 | **+300%** |
-| **ROI** | 180% | 520% | **+189%** |
+**🎯 Risultati Agenzia Milanese dopo 6 Mesi**:
+
+**💶 Costo mensile**:
+- PPC (Prima): €8,000
+- SEO Predittiva (Dopo): €2,500
+- **Variazione: -69%**
+
+**🎯 Lead qualificati**:
+- PPC (Prima): 67
+- SEO Predittiva (Dopo): 94
+- **Variazione: +40%**
+
+**💰 Costo per lead**:
+- PPC (Prima): €119
+- SEO Predittiva (Dopo): €27
+- **Variazione: -77%**
+
+**📈 Traffico mensile**:
+- PPC (Prima): 3,200
+- SEO Predittiva (Dopo): 12,800
+- **Variazione: +300%**
+
+**🚀 ROI**:
+- PPC (Prima): 180%
+- SEO Predittiva (Dopo): 520%
+- **Variazione: +189%**
 
 ### Fattori Critici del Successo
 

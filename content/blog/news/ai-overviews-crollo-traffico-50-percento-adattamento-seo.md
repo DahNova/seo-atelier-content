@@ -77,11 +77,25 @@ Revenue impact:
 ```
 
 #### Query Più Devastate
-| Query | Volume Pre | Traffico Pre | Traffico Post | Perdita |
-|-------|------------|--------------|---------------|---------|
-| "pasta carbonara ricetta" | 8,100 | 340 | 87 | **-74%** |
-| "tiramisù originale come fare" | 5,400 | 289 | 95 | **-67%** |
-| "pizza margherita impasto" | 6,700 | 312 | 124 | **-60%** |
+**💥 Query Più Devastate - Food Blog Milano**:
+
+**"pasta carbonara ricetta"**:
+- Volume ricerca: 8,100/mese
+- Traffico Pre-AI: 340 visite
+- Traffico Post-AI: 87 visite
+- **Perdita: -74%**
+
+**"tiramisù originale come fare"**:
+- Volume ricerca: 5,400/mese  
+- Traffico Pre-AI: 289 visite
+- Traffico Post-AI: 95 visite
+- **Perdita: -67%**
+
+**"pizza margherita impasto"**:
+- Volume ricerca: 6,700/mese
+- Traffico Pre-AI: 312 visite
+- Traffico Post-AI: 124 visite
+- **Perdita: -60%**
 
 ## Perché AI Overviews Massacrano il Traffico
 

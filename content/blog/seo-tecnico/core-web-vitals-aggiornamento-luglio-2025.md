@@ -47,11 +47,19 @@ I dati di 1000+ siti italiani mostrano:
 - **Fluidità** dell'esperienza interattiva
 
 ### Differenze INP vs FID
-| Metrica | FID (vecchia) | INP (nuova) |
-|---------|---------------|-------------|
-| **Scope** | Solo primo input | Tutte le interazioni |
-| **Durata** | Delay di input | Tempo completo di risposta |
-| **Rilevanza** | Momento di caricamento | Intera sessione utente |
+**📊 Confronto FID vs INP - Le Differenze Critiche**:
+
+**🎯 Scope**:
+- FID (vecchia): Solo primo input
+- INP (nuova): Tutte le interazioni
+
+**⏱️ Durata**:
+- FID (vecchia): Delay di input
+- INP (nuova): Tempo completo di risposta
+
+**🎪 Rilevanza**:
+- FID (vecchia): Momento di caricamento
+- INP (nuova): Intera sessione utente
 
 ### Come Ottimizzare INP
 

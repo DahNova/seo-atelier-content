@@ -69,13 +69,32 @@ La sticky bar è **standard su mobile** dal 2018:
 **Periodo**: Luglio 2025
 **Risultati**:
 
-| Posizione | CTR Precedente | CTR Sticky Bar | Variazione |
-|-----------|----------------|----------------|------------|
-| **#1** | 31.8% | 29.4% | **-7.5%** |
-| **#2** | 15.2% | 14.1% | **-7.2%** |
-| **#3** | 10.1% | 9.3% | **-7.9%** |
-| **#4-6** | 18.4% | 17.8% | **-3.3%** |
-| **#7-10** | 12.3% | 13.8% | **+12.2%** |
+**📈 Impatto CTR per Posizione - Test A/B Google Interno**:
+
+**Posizione #1**:
+- CTR Precedente: 31.8%
+- CTR Sticky Bar: 29.4%
+- **Variazione: -7.5%**
+
+**Posizione #2**:
+- CTR Precedente: 15.2%
+- CTR Sticky Bar: 14.1%
+- **Variazione: -7.2%**
+
+**Posizione #3**:
+- CTR Precedente: 10.1%
+- CTR Sticky Bar: 9.3%
+- **Variazione: -7.9%**
+
+**Posizioni #4-6**:
+- CTR Precedente: 18.4%
+- CTR Sticky Bar: 17.8%
+- **Variazione: -3.3%**
+
+**Posizioni #7-10**:
+- CTR Precedente: 12.3%
+- CTR Sticky Bar: 13.8%
+- **Variazione: +12.2%**
 
 ### Fenomeno del "Search Refinement"
 **Insight critico**: La sticky bar **incoraggia il refinement** delle query prima del click.
