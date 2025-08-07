@@ -244,12 +244,27 @@ Tracking implementato per:
 
 #### 3. Risultati Straordinari (90 Giorni)
 
-| Metrica Business | Prima (PPC) | Dopo (SEO) | Miglioramento |
-|------------------|-------------|------------|---------------|
-| Costo acquisizione | €95 | €23 | **-76%** |
-| Lifetime value | €340 | €420 | **+24%** |
-| ROAS | 3.2x | 12.8x | **+300%** |
-| Margine netto | 18% | 38% | **+111%** |
+**Metriche Business - Confronto Prima/Dopo**:
+
+**🔻 Costo acquisizione**:
+- Prima (PPC): €95
+- Dopo (SEO): €23  
+- **Miglioramento: -76%**
+
+**📈 Lifetime value**:
+- Prima (PPC): €340
+- Dopo (SEO): €420
+- **Miglioramento: +24%**
+
+**💰 ROAS**:
+- Prima (PPC): 3.2x
+- Dopo (SEO): 12.8x
+- **Miglioramento: +300%**
+
+**📊 Margine netto**:
+- Prima (PPC): 18%
+- Dopo (SEO): 38%
+- **Miglioramento: +111%**
 
 **Attribution dettagliata**:
 - **+€45,000 revenue** da content marketing fashion

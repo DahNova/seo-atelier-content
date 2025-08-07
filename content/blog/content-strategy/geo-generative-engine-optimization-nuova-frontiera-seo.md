@@ -88,14 +88,31 @@ final_response = generate_response({
 
 ### Differenze Critiche vs Google SEO
 
-| Aspetto | Google SEO | GEO (AI Engines) |
-|---------|------------|-------------------|
-| **Ranking** | Lista risultati | Sintesi unica |
-| **Click-through** | Necessario | Spesso inutile |
-| **Content length** | 2000+ words | Snippet-friendly |
-| **Freshness** | Importante | **Critico** |
-| **Citations** | Link building | **Content authority** |
-| **User intent** | Keyword-based | **Context-aware** |
+**⚖️ Google SEO vs GEO (AI Engines) - Confronto Critico**:
+
+**🔍 Ranking**:
+- Google SEO: Lista risultati
+- GEO (AI Engines): Sintesi unica
+
+**👆 Click-through**:
+- Google SEO: Necessario
+- GEO (AI Engines): Spesso inutile
+
+**📝 Content length**:
+- Google SEO: 2000+ words
+- GEO (AI Engines): Snippet-friendly
+
+**⚡ Freshness**:
+- Google SEO: Importante
+- GEO (AI Engines): **Critico**
+
+**🔗 Citations**:
+- Google SEO: Link building
+- GEO (AI Engines): **Content authority**
+
+**🎯 User intent**:
+- Google SEO: Keyword-based
+- GEO (AI Engines): **Context-aware**
 
 ## Framework GEO per Aziende Italiane
 
